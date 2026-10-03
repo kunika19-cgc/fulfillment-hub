@@ -14,3 +14,4 @@ env/
 
 # the shared demo database is created when the app runs
 hub_state.db*
+.agents/
