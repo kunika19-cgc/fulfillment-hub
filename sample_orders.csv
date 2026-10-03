@@ -1,0 +1,4 @@
+order_id,channel,sku,qty,priority
+XY-9001,Amazon,COT-00,1,yes
+XY-9002,Flipkart,STE-12,2,no
+XY-9003,Shopify,DES-30,1,no

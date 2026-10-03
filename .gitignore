@@ -1,0 +1,16 @@
+.pytest_cache/
+__pycache__/
+*.pyc
+.DS_Store
+
+# virtual environments - never commit these (hundreds of MB)
+venv/
+.venv/
+env/
+
+# local files
+.env
+*.zip
+
+# the shared demo database is created when the app runs
+hub_state.db*
