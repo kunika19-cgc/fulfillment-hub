@@ -2,7 +2,7 @@
 
 A fulfillment control room for **XYZ**, a small e-commerce business (200-300 orders/day). Built as the **Karmic Seed take-home project (Round 3)**. **All data is synthetic.**
 
-**Code:** <https://github.com/kunika19-cgc/fulfillment-hub> · **Video walkthrough:** `<paste video link>` · **AI usage note:** [docs/AI_USAGE_NOTE.md](docs/AI_USAGE_NOTE.md)
+**Code:** <https://github.com/kunika19-cgc/fulfillment-hub> · **AI usage note:** [docs/AI_USAGE_NOTE.md](docs/AI_USAGE_NOTE.md)
 
 > **The pitch:** XYZ's problem is not a lack of features, it is a lack of **visibility and time**. A spreadsheet says *what exists*, never *by when it must happen*. So every order gets a **ship-by deadline** (courier pickup minus a safety buffer), and the whole app is built around that clock.
 
